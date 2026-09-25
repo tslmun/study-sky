@@ -1,0 +1,16 @@
+{
+  "name": "Study Sky",
+  "short_name": "Study Sky",
+  "description": "A cute study planner with assignments, class timetable and Seoul weather.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFE3EC",
+  "theme_color": "#FF8FB5",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
